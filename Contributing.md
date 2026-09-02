@@ -4,7 +4,7 @@ All the materials below are the result of enthusiastic contributions from my uni
 
 # All the contributions 
 ``` text 
-|     Rank | Member                | Nhận định                                                                                     |
+|     Rank | Member                | Recognized                                                                                     |
 | -------: | --------------------- | --------------------------------------------------------------------------------------------- |
 | 🥇 **1** | **Nguyễn Đức Trí**    | Research + PoW + RQ discussion/conclusion + coordination + slides + presentation + submission |
 | 🥈 **2** | **Nghiem Xuan Khai**  | Literature + integration + final report restructuring/formatting + citation verification      |
