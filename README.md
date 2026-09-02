@@ -17,7 +17,6 @@ However, PoS is not without challenges. Issues such as validator centralization,
 This project investigates whether PoS represents the final stage of consensus evolution or merely a transitional step toward more advanced blockchain consensus architectures.
 
 --- 
-
 ## 🎯 Research Objectives
  
 The study aims to:
@@ -31,7 +30,6 @@ The study aims to:
 - Determine whether future blockchain ecosystems may require new consensus models beyond PoS.
 
 --- 
-
 ## 🔍 Research Questions
  
 ### Main Question
@@ -48,7 +46,6 @@ The study aims to:
 6. Could hybrid or next-generation consensus systems outperform PoS?
  
 ---
-
 ## 🏗️ Topics Covered
  
 ### 1. Blockchain Consensus Background
@@ -92,7 +89,6 @@ The study aims to:
 - Byzantine Fault Tolerant protocols
  
 ---
-
 ## 📊 Research Methodology
  
 This study adopts a qualitative research approach based on:
@@ -111,7 +107,6 @@ Sources include:
 - Research publications
  
 ---
- 
 ## 🔑 Key Findings
  
 The research suggests that Proof of Stake provides major improvements over Proof of Work in terms of:
@@ -150,7 +145,6 @@ These limitations indicate that while PoS is currently one of the most practical
 ```
  
 ---
- 
 ## 📚 References
  
 Suggested reference categories:
@@ -164,7 +158,6 @@ Suggested reference categories:
 - Blockchain Governance Studies
  
 ---
- 
 ## 👥 Authors
  
 **Group Research Project**
@@ -178,7 +171,6 @@ Researchers:
 Course: Blockchain Technology / Distributed Systems
  
 ---
- 
 ## 📜 License
  
 This repository is intended for educational and research purposes.
@@ -201,9 +193,7 @@ The project encourages:
 --- 
 ## 📈 Conclusion
  
-Proof of Stake represents a significant milestone in the evolution of blockchain consensus mechanisms. It offers substantial advantages over Proof of Work and has become the foundation of many modern blockchain networks.
- 
-Nevertheless, the evidence suggests that PoS is unlikely to be the definitive or ultimate consensus solution for all blockchain applications. As blockchain adoption continues to diversify, emerging requirements for scalability, security, interoperability, and decentralization are likely to drive the development of new consensus models and hybrid approaches.
+Proof of Stake represents a significant milestone in the evolution of blockchain consensus mechanisms. It offers substantial advantages over Proof of Work and has become the foundation of many modern blockchain networks. Nevertheless, the evidence suggests that PoS is unlikely to be the definitive or ultimate consensus solution for all blockchain applications.As blockchain adoption continues to diversify, emerging requirements for scalability, security, interoperability, and decentralization are likely to drive the development of new consensus models and hybrid approaches.
  
 Therefore, PoS should be viewed not as the endpoint of consensus evolution, but as an important stage in an ongoing process of innovation.
  
