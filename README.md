@@ -31,10 +31,9 @@ The study aims to:
 
 --- 
 ## 🔍 Research Questions
- 
 ### Main Question
  
-**Is Proof of Stake the ultimate consensus mechanism for blockchain systems, or are new consensus models required to address its limitations?**
+> Is Proof of Stake the ultimate consensus mechanism for blockchain systems, or are new consensus models required to address its limitations?
  
 ### Supporting Questions
  
